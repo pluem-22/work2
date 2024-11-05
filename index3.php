@@ -87,7 +87,7 @@ $date2= $_POST['date2'];
     <table>
         <thead>
             <tr>
-                <th colspan="2">ชื่อและที่อยู่ผู้ฝาก</th>
+                <th colspan="2">ชื่อและที่อยู่ผู้ส่ง</th>
             </tr>
         </thead>
         <tbody>
