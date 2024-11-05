@@ -13,7 +13,7 @@
 
     <!-- Example Code -->
     
-    <h1>ผู้ส่ง</h1>
+    <h1>ชื่อและที่อยู่ผู้ส่ง</h1>
     <form class="row g-3 needs-validation was-validated" novalidate=""  method="post"  action="index3.php" >
       <div class="col-md-4">
         <label for="validationCustom01" class="form-label">ชื่อ</label>
@@ -299,7 +299,7 @@
         <button class="btn btn-primary" type="submit">Submit form</button>
       </div> -->
    
-    <h2>ผู้รับ</h2>
+    <h2>ชื่อและที่อยู่ผู้รับ</h2>
       <div class="col-md-4">
         <label for="validationCustom01" class="form-label">ชื่อ</label>
         <input type="text" class="form-control" id="validationCustom01"  required="" name="name2">
